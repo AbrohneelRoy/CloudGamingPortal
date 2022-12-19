@@ -39,7 +39,8 @@ body {
 }
 
 .hello h1 {
-  color: #fff;
+  color: rgb(202, 114, 221);
+
   top: 100%;
 
 }
